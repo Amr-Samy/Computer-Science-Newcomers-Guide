@@ -160,7 +160,8 @@
 **[FlowCV](https://app.flowcv.com/)**  
 **[ازاي تكتب](https://web.facebook.com/share/p/1CoUp9CYC9/)**  
 **[Twitter Space: نصائح لعمل ملف شخصي قوي على لينكدإن](https://x.com/i/spaces/1YpKkwDWkBZKj)**  
-**[LinkedIn profile tips for web developers](https://youtu.be/K-5JkP6a_bw?si=Xcd7-fNjkimbqJKb)**
+**[LinkedIn profile tips for web developers](https://youtu.be/K-5JkP6a_bw?si=Xcd7-fNjkimbqJKb)** </br>
+**[الإتش آر يعظ](https://www.youtube.com/@rababhuwait/playlists)**
 
 ---
 
