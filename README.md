@@ -167,10 +167,10 @@
 
 ## 🧑🏻‍💻 Remote Jobs
 
-**🧑🏻‍💻 [Toptal](https://www.toptal.com/)**  
-**🧑🏻‍💻 [CrossWorkers Egypt](https://www.crossworkers-egypt.com/)**  
-**🧑🏻‍💻 [Squadio](https://squadio.com)**  
-**🧑🏻‍💻 [Talents Arena](https://talentsarena.net/developers)**
+**[Toptal](https://www.toptal.com/)**  
+**[CrossWorkers Egypt](https://www.crossworkers-egypt.com/)**  
+**[Squadio](https://squadio.com)**  
+**[Talents Arena](https://talentsarena.net/developers)**
 
 ---
 
@@ -189,12 +189,15 @@
 **[Freelancer](https://www.freelancer.com)**
 
 ---
+## 🛡️ Cyber Security
+
+**[Ebrahim Hegazy](https://youtu.be/f3hP49LGoik)**  
 
 ## 🎨 UI/UX
 
-**🎨 [Osama ElDrieny](https://www.youtube.com/@osamaeldrieny)**  
-**🎨 [Uxcel](https://uxcel.com/)**  
-**🎨 [يعني ايه UX UI Design وتتعلمه ازاي](https://www.youtube.com/shorts/NcAEVSKGvg8)**
+**[Osama ElDrieny](https://www.youtube.com/@osamaeldrieny)**  
+**[Uxcel](https://uxcel.com/)**  
+**[يعني ايه UX UI Design وتتعلمه ازاي](https://www.youtube.com/shorts/NcAEVSKGvg8)**
 
 ---
 
