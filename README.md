@@ -50,10 +50,10 @@
 
 ## 👥 Groups to Join
 
-**👥 [Egyptian Geeks](https://web.facebook.com/groups/egyptian.geeks/)**  
-**👥 [CSE knowledge exchange](https://web.facebook.com/groups/892792400815703/)**  
-**👥 [CS Job and Internship Positions](https://web.facebook.com/groups/cs.jobs.internships/)**  
-**👥 [Elzero Web School](https://web.facebook.com/groups/ElzeroWebSchool/)**
+**[Egyptian Geeks](https://web.facebook.com/groups/egyptian.geeks/)**  
+**[CSE knowledge exchange](https://web.facebook.com/groups/892792400815703/)**  
+**[CS Job and Internship Positions](https://web.facebook.com/groups/cs.jobs.internships/)**  
+**[Elzero Web School](https://web.facebook.com/groups/ElzeroWebSchool/)**
 
 ---
 
@@ -107,11 +107,25 @@
 **[Graduation Project - Questions & Answers](https://youtu.be/B7a4hbrBPAc)**  
 **[كل اللي محتاج تعرفه عن أزاي تعدي مناقشة مشروع التخرج بإمتياز](https://youtu.be/hpjkBBKSjSI)**
 
+
 ---
+## 🛡️ Cyber Security
 
-## 🧑🏽‍🏭 Military Service
+**[Ebrahim Hegazy](https://youtu.be/f3hP49LGoik)**  
 
-**🧑🏽‍🏭 [المذاكرة في الجيش](https://web.facebook.com/share/p/17iZkGx6U3/)**
+## 📚 Basics
+
+**[Programming 1 : C++](https://www.youtube.com/playlist?list=PL1DUmTEdeA6IUD9Gt5rZlQfbZyAWXd-oD)**
+**[Programming 2 : C++ oop](https://www.youtube.com/playlist?list=PL1DUmTEdeA6KLEvIO0NyrkT91BVle8BOU)**
+**[Programming 3 : Data Structure java](https://www.youtube.com/playlist?list=PL1DUmTEdeA6K2yGIRxMvK9nTfRIiWXAWV)**
+**[DataBase 1 ](https://www.youtube.com/playlist?list=PL37D52B7714788190)**
+**[DataBase](https://www.youtube.com/playlist?list=PL1DUmTEdeA6LosKnchDWE5MUnPdWjLN-H)**
+
+## 🎨 UI/UX
+
+**[Osama ElDrieny](https://www.youtube.com/@osamaeldrieny)**  
+**[Uxcel](https://uxcel.com/)**  
+**[يعني ايه UX UI Design وتتعلمه ازاي](https://www.youtube.com/shorts/NcAEVSKGvg8)**
 
 ---
 
@@ -188,16 +202,11 @@
 **[خمسات](https://khamsat.com)**  
 **[Freelancer](https://www.freelancer.com)**
 
----
-## 🛡️ Cyber Security
 
-**[Ebrahim Hegazy](https://youtu.be/f3hP49LGoik)**  
+## 🧑🏽‍🏭 Military Service
 
-## 🎨 UI/UX
+**🧑🏽‍🏭 [المذاكرة في الجيش](https://web.facebook.com/share/p/17iZkGx6U3/)**
 
-**[Osama ElDrieny](https://www.youtube.com/@osamaeldrieny)**  
-**[Uxcel](https://uxcel.com/)**  
-**[يعني ايه UX UI Design وتتعلمه ازاي](https://www.youtube.com/shorts/NcAEVSKGvg8)**
 
 ---
 
