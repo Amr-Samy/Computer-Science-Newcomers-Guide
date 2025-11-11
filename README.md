@@ -25,9 +25,9 @@
 
 ## 🎬 Videos to watch
 
-[ايه اللي أفادك في الكلية و ايه اللي ندمت عليه؟](https://youtu.be/Vf3ViH9qDXw)  
-[لايف_مع_القهوة و حنجيب سيرة الجامعة](https://youtu.be/-KsRX8TfNns)  
-[بناء العلاقات في الجامعة!](https://youtu.be/htVgpo3sQfM)  
+[🎬 ايه اللي أفادك في الكلية و ايه اللي ندمت عليه؟](https://youtu.be/Vf3ViH9qDXw)  
+[🎬 لايف_مع_القهوة و حنجيب سيرة الجامعة](https://youtu.be/-KsRX8TfNns)  
+[🎬 بناء العلاقات في الجامعة!](https://youtu.be/htVgpo3sQfM)  
 
 ---
 
@@ -73,18 +73,18 @@
 
 ## 🎧 Playlists
 
-**[كيف تلتحق بالشركات العالمية FAANG في مجال البرمجة](https://www.youtube.com/playlist?list=PLJYBTsbldfv-pu1n_qDgcAgxnC6X-q3jf)**  
-**[سلسلة حاسبات لإرشاد الطلبة](https://www.youtube.com/playlist?list=PLPt2dINI2MIYY3yqu4YDu2se2GCpcKBfB)**  
-**[كورس CS50 بالعربي](https://www.youtube.com/playlist?list=PLvGNfY-tFUN_1D3D0WAMlWULl3qnEKHEA)**  
-**[نصائح لطلاب علوم حاسب](https://www.youtube.com/playlist?list=PLJpb_xuKcFoseuYoWiYyFwauw4VpE70LF)**  
-**[المهارات المنسية لتنمية حياتك المهنية - محمد الجيش](https://www.youtube.com/playlist?list=PL2jkrMPwyemTPqq5oHoLVBh_Cudylptq1)**
+**[🎬 كيف تلتحق بالشركات العالمية FAANG في مجال البرمجة](https://www.youtube.com/playlist?list=PLJYBTsbldfv-pu1n_qDgcAgxnC6X-q3jf)**  
+**[🎬 سلسلة حاسبات لإرشاد الطلبة](https://www.youtube.com/playlist?list=PLPt2dINI2MIYY3yqu4YDu2se2GCpcKBfB)**  
+**[🎬 كورس CS50 بالعربي](https://www.youtube.com/playlist?list=PLvGNfY-tFUN_1D3D0WAMlWULl3qnEKHEA)**  
+**[🎬 نصائح لطلاب علوم حاسب](https://www.youtube.com/playlist?list=PLJpb_xuKcFoseuYoWiYyFwauw4VpE70LF)**  
+**[🎬 المهارات المنسية لتنمية حياتك المهنية - محمد الجيش](https://www.youtube.com/playlist?list=PL2jkrMPwyemTPqq5oHoLVBh_Cudylptq1)**
 
 ---
 
 ## 🐞 Problem Solving | ACM  | CTF 
 
-**[ACM/ICPC - Newcomers](https://www.youtube.com/playlist?list=PLPt2dINI2MIaNcU070HIAO8JWYBcafuyG)**  
-**[ACM/ICPC - Training road maps](https://www.youtube.com/playlist?list=PLPt2dINI2MIaejzPHtd5E623KS3uUxohT)** </br>
+**[🎬 ACM/ICPC - Newcomers](https://www.youtube.com/playlist?list=PLPt2dINI2MIaNcU070HIAO8JWYBcafuyG)**  
+**[🎬 ACM/ICPC - Training road maps](https://www.youtube.com/playlist?list=PLPt2dINI2MIaejzPHtd5E623KS3uUxohT)** </br>
 [مسابقات CTF (ازاي تبدأ فيها)](https://youtu.be/R0i3EKYHCIQ)
 
 
@@ -93,70 +93,70 @@
 ## ☀️ Google Summer of Code (GSoC)
 
 **[Why it is important](https://xuser5000.hashnode.dev/why-google-summer-of-code-is-a-golden-opportunity?fbclid=IwY2xjawNrG5xleHRuA2FlbQIxMQBicmlkETFMZ1IzTEhveU1UQ1pybDkwAR6FVjR0gXox8oVvZjPvgkhYE2cJcLYFrs2aPALmfLXFTW21lh5znUyaidnDZQ_aem_Ow1YrCwrtX0HEYrBhziJNw)**  
-**[Open Source and GSoC 2024](https://youtu.be/Pw9Je4iMU0s)**  
-**[Let's apply to Google Summer of Code (Arabic)](https://youtu.be/WKFAwImEo1c)**  
-**[Google Summer of Code: Information](https://www.youtube.com/playlist?list=PLxNYxgaZ8Rsd2o1eD02_TGkE5Iu-jXi1K)**  
+**[🎬 Open Source and GSoC 2024](https://youtu.be/Pw9Je4iMU0s)**  
+**[🎬 Let's apply to Google Summer of Code (Arabic)](https://youtu.be/WKFAwImEo1c)**  
+**[🎬 Google Summer of Code: Information](https://www.youtube.com/playlist?list=PLxNYxgaZ8Rsd2o1eD02_TGkE5Iu-jXi1K)**  
 **[Helpful resources for GDSC Leads](https://docs.google.com/document/u/0/d/1cCFgtZKic3Cy2TP6ua2n7afy3_YPGb_LLtx8LvicrM4/mobilebasic?resourcekey=0-KsCCk9x6U27VeH8wlfV3Vg)**
 
 ---
 
 ## 🎓 Graduation Project
 
-**[مشروع التخرج - سنة رابعة (آخر سنة)](https://youtu.be/s8iKHDJ8we4?list=PLJpb_xuKcFoseuYoWiYyFwauw4VpE70LF)**  
-**[How to Choose Graduation Projects](https://youtu.be/uwwe_DwE2A8)**  
-**[Graduation Project - Questions & Answers](https://youtu.be/B7a4hbrBPAc)**  
-**[كل اللي محتاج تعرفه عن أزاي تعدي مناقشة مشروع التخرج بإمتياز](https://youtu.be/hpjkBBKSjSI)**
+**[🎬 مشروع التخرج - سنة رابعة (آخر سنة)](https://youtu.be/s8iKHDJ8we4?list=PLJpb_xuKcFoseuYoWiYyFwauw4VpE70LF)**  
+**[🎬 How to Choose Graduation Projects](https://youtu.be/uwwe_DwE2A8)**  
+**[🎬 Graduation Project - Questions & Answers](https://youtu.be/B7a4hbrBPAc)**  
+**[🎬 كل اللي محتاج تعرفه عن أزاي تعدي مناقشة مشروع التخرج بإمتياز](https://youtu.be/hpjkBBKSjSI)**
 
 
 ---
 ## 🛡️ Cyber Security
 
-**[Ebrahim Hegazy](https://youtu.be/f3hP49LGoik)**  
+**[🎬 Ebrahim Hegazy](https://youtu.be/f3hP49LGoik)**  
 
 ## 📚 Basics
 
-**[Programming 1 : C++](https://www.youtube.com/playlist?list=PL1DUmTEdeA6IUD9Gt5rZlQfbZyAWXd-oD)**
-**[Programming 2 : C++ oop](https://www.youtube.com/playlist?list=PL1DUmTEdeA6KLEvIO0NyrkT91BVle8BOU)**
-**[Programming 3 : Data Structure java](https://www.youtube.com/playlist?list=PL1DUmTEdeA6K2yGIRxMvK9nTfRIiWXAWV)**
-**[DataBase 1 ](https://www.youtube.com/playlist?list=PL37D52B7714788190)**
-**[DataBase](https://www.youtube.com/playlist?list=PL1DUmTEdeA6LosKnchDWE5MUnPdWjLN-H)**
+**[🎬 Programming 1 : C++](https://www.youtube.com/playlist?list=PL1DUmTEdeA6IUD9Gt5rZlQfbZyAWXd-oD)**
+**[🎬 Programming 2 : C++ oop](https://www.youtube.com/playlist?list=PL1DUmTEdeA6KLEvIO0NyrkT91BVle8BOU)**
+**[🎬 Programming 3 : Data Structure java](https://www.youtube.com/playlist?list=PL1DUmTEdeA6K2yGIRxMvK9nTfRIiWXAWV)**
+**[🎬 DataBase 1 ](https://www.youtube.com/playlist?list=PL37D52B7714788190)**
+**[🎬 DataBase](https://www.youtube.com/playlist?list=PL1DUmTEdeA6LosKnchDWE5MUnPdWjLN-H)**
 
 ## 🎨 UI/UX
 
 **[Osama ElDrieny](https://www.youtube.com/@osamaeldrieny)**  
 **[Uxcel](https://uxcel.com/)**  
-**[يعني ايه UX UI Design وتتعلمه ازاي](https://www.youtube.com/shorts/NcAEVSKGvg8)**
+**[🎬 يعني ايه UX UI Design وتتعلمه ازاي](https://www.youtube.com/shorts/NcAEVSKGvg8)**
 
 ---
 
 ## 🎲 Randoms
 
-**[ازاي انجح في شغل الريموت واقبض بالدولار ؟](https://youtu.be/83fHTUDCgFg?si=ThMIy3JWcfSQsPQH)** </br>
-**[الشغل بالدولار](https://www.youtube.com/live/SzLQLjtq9bQ?si=KM1EWqzB8-V2pb_Y)</br>**
-**[هل ممكن أشتغل في شركة أجنبية وانا جونيور ؟!](https://youtu.be/9JFjHWTe4d4?si=4mmS2J0KILltv6vF)**  
+**[🎬 ازاي انجح في شغل الريموت واقبض بالدولار ؟](https://youtu.be/83fHTUDCgFg?si=ThMIy3JWcfSQsPQH)** </br>
+**[🎬 الشغل بالدولار](https://www.youtube.com/live/SzLQLjtq9bQ?si=KM1EWqzB8-V2pb_Y)</br>**
+**[🎬 هل ممكن أشتغل في شركة أجنبية وانا جونيور ؟!](https://youtu.be/9JFjHWTe4d4?si=4mmS2J0KILltv6vF)**  
 **[Designing Data Intensive Applications - Reliable Scalable and Maintainable Apps](https://youtu.be/Ipj7H_vCi6Q?si=JYiypW7o2raOJQso)**  
-**[كودكاست | من مصر الى ميكروسوفت و آبل وخبرة ٢٠ سنه في اقوى شركات التقنية FAANG](https://youtu.be/6xMzJS0AuJ0?si=8p2D41hhLnuUd9If)**  
-**[مبادرة تعليمية مجانية ممكن تؤهلك لوظيفة أحلامك](https://youtu.be/gab6HT4Sg6I?si=2Px5174ApN0z8w35)**  
+**[🎬 كودكاست | من مصر الى ميكروسوفت و آبل وخبرة ٢٠ سنه في اقوى شركات التقنية FAANG](https://youtu.be/6xMzJS0AuJ0?si=8p2D41hhLnuUd9If)**  
+**[🎬 مبادرة تعليمية مجانية ممكن تؤهلك لوظيفة أحلامك](https://youtu.be/gab6HT4Sg6I?si=2Px5174ApN0z8w35)**  
 **[FAANG Internship](https://www.youtube.com/live/vXukSWdjad4?si=Z3xOunTURC9Ljva8)**  
-**[المهارات المنسية لتنمية حياتك المهنية](https://www.youtube.com/live/W0E4Dyz2Gvo?si=imcVedb8awobbwO5)**  
+**[🎬 المهارات المنسية لتنمية حياتك المهنية](https://www.youtube.com/live/W0E4Dyz2Gvo?si=imcVedb8awobbwO5)**  
 **[شركات البرمجة فى إسكندرية](https://www.linkedin.com/pulse/software-development-companies-alexandria-egypt-hazem-torab)**  
 **[شركات البرمجة فى القاهرة](https://docs.google.com/spreadsheets/u/0/d/101uckSfVnie8JyCxE65R5fpEam_vmz589IinE5yLFcI/htmlview#)**  
 **[الكتابة على الكيبورد بسرعة وبدون النظر إليها](https://www.typingclub.com/login.html)**  
 **[مواقع تهمك](https://s3geeks.com/%D9%85%D9%88%D8%A7%D9%82%D8%B9-%D9%85%D9%87%D9%85%D8%A9/)**  
 **[GitHub Student Developer Pack](https://education.github.com/pack)**   
-**[How to verify LinkedIn profile by University Email](https://youtu.be/7p8i4SAKVJQ)** </br>
-**[المال الحلال مع محمد أبو النجا نجاتي - ولقاء مع الدكتور شيرين حلمي](https://youtu.be/u4yj4bVFUY4?si=wiICF-nYUMzMlNN_)**  
+**[🎬 How to verify LinkedIn profile by University Email](https://youtu.be/7p8i4SAKVJQ)** </br>
+**[🎬 المال الحلال مع محمد أبو النجا نجاتي - ولقاء مع الدكتور شيرين حلمي](https://youtu.be/u4yj4bVFUY4?si=wiICF-nYUMzMlNN_)**  
 
 
 ---
 
 ## ✨ Advanced Topics
 
-**[Introduction to Microservices| ميكروسيرفيس بالعربي](https://youtu.be/9pGXaUaMyBo?si=YTIqdxHZzGPmY3Ka)**  
-**[Learn SOLID Principles](https://youtu.be/MrDYsFbtFZM?si=oUR33zDb7YApweH2)**  
-**[شرح تفصيلي لعقد CORS](https://youtu.be/ts0215zz2gM?si=ZKwel9AUYN7blMxP)**  
-**[Introduction to Declarative Programming, Functional Programming](https://youtu.be/9bW8dp1M1Ac?si=XEgnGaKmywXIl4UQ)**  
-**[Introduction to MIPS Processor Assembly](https://youtu.be/btN2CFGJQJA?si=WHrsgE0D4zphHB2o)**
+**[🎬 Introduction to Microservices| ميكروسيرفيس بالعربي](https://youtu.be/9pGXaUaMyBo?si=YTIqdxHZzGPmY3Ka)**  
+**[🎬 Learn SOLID Principles](https://youtu.be/MrDYsFbtFZM?si=oUR33zDb7YApweH2)**  
+**[🎬 شرح تفصيلي لعقد CORS](https://youtu.be/ts0215zz2gM?si=ZKwel9AUYN7blMxP)**  
+**[🎬 Introduction to Declarative Programming, Functional Programming](https://youtu.be/9bW8dp1M1Ac?si=XEgnGaKmywXIl4UQ)**  
+**[🎬 Introduction to MIPS Processor Assembly](https://youtu.be/btN2CFGJQJA?si=WHrsgE0D4zphHB2o)**
 
 ---
 
@@ -174,8 +174,8 @@
 **[FlowCV](https://app.flowcv.com/)**  
 **[ازاي تكتب](https://web.facebook.com/share/p/1CoUp9CYC9/)**  
 **[Twitter Space: نصائح لعمل ملف شخصي قوي على لينكدإن](https://x.com/i/spaces/1YpKkwDWkBZKj)**  
-**[LinkedIn profile tips for web developers](https://youtu.be/K-5JkP6a_bw?si=Xcd7-fNjkimbqJKb)** </br>
-**[الإتش آر يعظ](https://www.youtube.com/@rababhuwait/playlists)**
+**[🎬 LinkedIn profile tips for web developers](https://youtu.be/K-5JkP6a_bw?si=Xcd7-fNjkimbqJKb)** </br>
+**[🎬 الإتش آر يعظ](https://www.youtube.com/@rababhuwait/playlists)**
 
 ---
 
