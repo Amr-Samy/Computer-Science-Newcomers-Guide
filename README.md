@@ -68,6 +68,7 @@
 **[Yehia Tech](https://www.youtube.com/@yehiatech)**  
 **[Software ArchTalks for Arabs](https://www.youtube.com/@ArabSoftwareArchTalks)**  
 **[Codezilla](https://www.youtube.com/@Codezilla)**
+**[Learn Simply](https://www.youtube.com/@Learn_Simply)**
 
 ---
 
