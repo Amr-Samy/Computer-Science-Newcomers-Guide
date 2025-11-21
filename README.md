@@ -117,11 +117,11 @@
 
 ## 📚 Basics
 
-**[🎬 Programming 1 : C++](https://www.youtube.com/playlist?list=PL1DUmTEdeA6IUD9Gt5rZlQfbZyAWXd-oD)**
-**[🎬 Programming 2 : C++ oop](https://www.youtube.com/playlist?list=PL1DUmTEdeA6KLEvIO0NyrkT91BVle8BOU)**
-**[🎬 Programming 3 : Data Structure java](https://www.youtube.com/playlist?list=PL1DUmTEdeA6K2yGIRxMvK9nTfRIiWXAWV)**
-**[🎬 DataBase 1 ](https://www.youtube.com/playlist?list=PL37D52B7714788190)**
-**[🎬 DataBase](https://www.youtube.com/playlist?list=PL1DUmTEdeA6LosKnchDWE5MUnPdWjLN-H)**
+**[🎬 Programming 1 : C++](https://www.youtube.com/playlist?list=PL1DUmTEdeA6IUD9Gt5rZlQfbZyAWXd-oD)**</br>
+**[🎬 Programming 2 : C++ oop](https://www.youtube.com/playlist?list=PL1DUmTEdeA6KLEvIO0NyrkT91BVle8BOU)**</br>
+**[🎬 Programming 3 : Data Structure java](https://www.youtube.com/playlist?list=PL1DUmTEdeA6K2yGIRxMvK9nTfRIiWXAWV)**</br>
+**[🎬 DataBase 1 ](https://www.youtube.com/playlist?list=PL37D52B7714788190)**</br>
+**[🎬 DataBase](https://www.youtube.com/playlist?list=PL1DUmTEdeA6LosKnchDWE5MUnPdWjLN-H)**</br>
 
 ## 🎨 UI/UX
 
@@ -147,6 +147,7 @@
 **[مواقع تهمك](https://s3geeks.com/%D9%85%D9%88%D8%A7%D9%82%D8%B9-%D9%85%D9%87%D9%85%D8%A9/)**  
 **[GitHub Student Developer Pack](https://education.github.com/pack)**   
 **[🎬 How to verify LinkedIn profile by University Email](https://youtu.be/7p8i4SAKVJQ)** </br>
+**[🎬 alary negotiation arabic💲](https://youtu.be/Ab4UUwyGTjM)** </br>
 **[🎬 المال الحلال مع محمد أبو النجا نجاتي - ولقاء مع الدكتور شيرين حلمي](https://youtu.be/u4yj4bVFUY4?si=wiICF-nYUMzMlNN_)**  
 
 
@@ -208,7 +209,11 @@
 ## 🧑🏽‍🏭 Military Service
 
 **🧑🏽‍🏭 [المذاكرة في الجيش](https://web.facebook.com/share/p/17iZkGx6U3/)**
+## ☑ ToDo
 
+- [ ] Editor Extensions. </br>
+- [ ] Browser Extensions.</br>
+- [ ] Books to read.</br>
 
 ---
 
