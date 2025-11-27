@@ -92,6 +92,16 @@
 
 ---
 
+---
+
+## 👨🏼‍🎓 Internships
+**[the forage](https://www.theforage.com/jobs?roleType=Internship)**  
+**[go careers](https://gocareers.co.za/internships)**  
+**[yout hop](https://www.youthop.com/internships)**  
+**[wuzzuf](https://wuzzuf.net/a/Internships-in-Egypt)**  
+
+---
+
 ## ☀️ Google Summer of Code (GSoC)
 
 **[Why it is important](https://xuser5000.hashnode.dev/why-google-summer-of-code-is-a-golden-opportunity?fbclid=IwY2xjawNrG5xleHRuA2FlbQIxMQBicmlkETFMZ1IzTEhveU1UQ1pybDkwAR6FVjR0gXox8oVvZjPvgkhYE2cJcLYFrs2aPALmfLXFTW21lh5znUyaidnDZQ_aem_Ow1YrCwrtX0HEYrBhziJNw)**  
