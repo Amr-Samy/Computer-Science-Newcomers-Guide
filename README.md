@@ -221,7 +221,8 @@
 **🧑🏽‍🏭 [المذاكرة في الجيش](https://web.facebook.com/share/p/17iZkGx6U3/)**
 ## ☑ ToDo
 
-- [ ] Internships</br>
+- [x] Internships</br>
+- [ ] Roadmaps </br>
 - [ ] Editor Extensions. </br>
 - [ ] Browser Extensions.</br>
 - [ ] Books to read.</br>
