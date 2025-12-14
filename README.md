@@ -132,6 +132,7 @@
 **[🎬 Programming 3 : Data Structure java](https://www.youtube.com/playlist?list=PL1DUmTEdeA6K2yGIRxMvK9nTfRIiWXAWV)**</br>
 **[🎬 DataBase 1 ](https://www.youtube.com/playlist?list=PL37D52B7714788190)**</br>
 **[🎬 DataBase](https://www.youtube.com/playlist?list=PL1DUmTEdeA6LosKnchDWE5MUnPdWjLN-H)**</br>
+**[🎬 The Only Git Tutorial u will ever need](https://youtu.be/Q6G-J54vgKc)**</br>
 
 ## 🎨 UI/UX
 
