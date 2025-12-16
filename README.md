@@ -170,7 +170,9 @@
 **[🎬 Learn SOLID Principles](https://youtu.be/MrDYsFbtFZM?si=oUR33zDb7YApweH2)**  
 **[🎬 شرح تفصيلي لعقد CORS](https://youtu.be/ts0215zz2gM?si=ZKwel9AUYN7blMxP)**  
 **[🎬 Introduction to Declarative Programming, Functional Programming](https://youtu.be/9bW8dp1M1Ac?si=XEgnGaKmywXIl4UQ)**  
-**[🎬 Introduction to MIPS Processor Assembly](https://youtu.be/btN2CFGJQJA?si=WHrsgE0D4zphHB2o)**
+**[🎬 Introduction to MIPS Processor Assembly](https://youtu.be/btN2CFGJQJA?si=WHrsgE0D4zphHB2o)** </br>
+**[🎬 Event Loop](https://youtu.be/8aGhZQkoFbQ)** **[🎬 Event Loop](https://youtu.be/eiC58R16hb8)**</br>
+
 
 ---
 
