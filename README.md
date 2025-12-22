@@ -226,7 +226,11 @@
 
 ## 🛠️ Tools:
 
-**🔧 [VS Code Online Editor](https://vscode.dev)**
+**🔧 [VS Code Online Editor](https://vscode.dev)** </br>
+**🔧 [Notebooklm : بيلخص المواد ويساعد فى المذاكره](https://notebooklm.google)** </br>
+**🎥 [المذاكرة بإستخدام Notebooklm ِ](https://youtu.be/M-QESyqtTQ8)**
+
+
 ## ☑ ToDo
 
 - [x] Internships</br>
