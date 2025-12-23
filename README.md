@@ -159,7 +159,8 @@
 **[GitHub Student Developer Pack](https://education.github.com/pack)**   
 **[🎬 How to verify LinkedIn profile by University Email](https://youtu.be/7p8i4SAKVJQ)** </br>
 **[🎬 alary negotiation arabic💲](https://youtu.be/Ab4UUwyGTjM)** </br>
-**[🎬 المال الحلال مع محمد أبو النجا نجاتي - ولقاء مع الدكتور شيرين حلمي](https://youtu.be/u4yj4bVFUY4?si=wiICF-nYUMzMlNN_)**  
+**[🎬 المال الحلال مع محمد أبو النجا نجاتي - ولقاء مع الدكتور شيرين حلمي](https://youtu.be/u4yj4bVFUY4?si=wiICF-nYUMzMlNN_)** </br>
+**[🎬 الخطايا السبع للمبرمجين الجدد](https://youtu.be/CSOIo4ZML0w)** </br>
 
 
 ---
