@@ -219,6 +219,13 @@
 **[خمسات](https://khamsat.com)**  
 **[Freelancer](https://www.freelancer.com)**
 
+---
+
+## ↗️ Engineering Career Frameworks:
+
+**↗️ [Career Frameworks of world's best companies](https://progression.fyi/)** </br>
+**↗️ [Google](https://www.hirecade.com/blog/google-engineering-levels-responsibilities-and-compensation)** </br>
+
 
 ## 🧑🏽‍🏭 Military Service
 
