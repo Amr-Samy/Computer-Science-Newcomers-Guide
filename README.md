@@ -208,7 +208,8 @@
 ## 💼 Job Finder
 
 **[WUZZUF](https://wuzzuf.net/careers)**  
-**[Companies Tracker](https://purrfect-drug-c82.notion.site/362a7d6ea21b4a509bccb21f1ec2867b?v=790c663fca9744ee93f780f133652fe6)**  
+**[Companies Tracker](https://purrfect-drug-c82.notion.site/362a7d6ea21b4a509bccb21f1ec2867b?v=790c663fca9744ee93f780f133652fe6)**  </br>
+**[The Largest Tech Community In The EMEA](https://stackinfo.me/companies)**  </br>
 **[Jooble](https://eg.jooble.org/)**
 
 ---
